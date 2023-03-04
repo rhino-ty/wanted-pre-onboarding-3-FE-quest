@@ -1,3 +1,3 @@
 export default function C() {
-  return <></>;
+  return <>C</>;
 }
